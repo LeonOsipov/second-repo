@@ -1,3 +1,4 @@
 # second-repo
 another repository
-hello, world!
+hello, world!\n
+and one
